@@ -1,61 +1,56 @@
-### 👀 Profile Views
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">🚀 AI & Data Science Enthusiast | Problem Solver</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mkg6573&label=Profile%20views&color=0e75b6&style=flat)
-
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+PRINCE+KUMAR.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
-
-### 💻 About Me
-I'm a **Computer Science & Artificial Intelligence student** at CSJMU with a passion for **Data Science, Machine Learning, and AI-driven solutions**.  
-I enjoy **turning complex challenges into clean, efficient code** and exploring **new technologies** to enhance my skills.  
-
-**Focus areas:**
-- Data Analysis & Visualization 📊  
-- Algorithm Design & Problem Solving 🧩  
-- Machine Learning & AI-driven Projects 🤖  
-- Real-world applications and open-source contributions 🌐  
-
-I love collaborating on projects and learning from the open-source community.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theprince2552&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 📈 My GitHub Stats
-
-<img align="center" width="100%" src="gh-space-shooter.webp" /> 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkg6573&theme=radical)  
-
+## 💻 About Me
+🎓 Computer Science & Artificial Intelligence student at **CSJMU**  
+💡 Passionate about **Data Science, Machine Learning & AI**  
+⚡ I love solving real-world problems with code  
 
 ---
 
-### 🌱 Currently Learning
+## 🔍 Focus Areas
+- 📊 Data Analysis & Visualization  
+- 🧠 Machine Learning & AI Projects  
+- 🧩 Algorithms & Problem Solving  
+- 🌐 Open Source Contributions  
+
+---
+
+## 🌱 Currently Learning
 - Advanced Data Science Techniques  
-- Machine Learning & Deep Learning Models  
-- Data Visualization & Dashboards  
-
----
----
-
-### 🤝 Connect With Me
-- 🐙 GitHub:https://github.com/theprince2552/theprince2552 
-- 📧 Email: princekumar20799@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-83b77132a/
+- Deep Learning Models  
+- Dashboard & Data Visualization  
 
 ---
 
-### ⚡ Fun Fact
-I love solving problems with **algorithms, data, and AI**, and I’m constantly challenging myself to **learn something new every day**!## Hi there 👋
+## 🚀 Featured Projects
+- 🔢 **Calculator App** – Python based calculator  
+- 🎮 **Game Project** – Fun Python game  
+- 🔐 **Password Generator** – Secure password tool  
+- 📋 **To-Do List App** – Task manager  
 
-<!--
-**theprince2552/theprince2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theprince2552&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprince2552&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Connect With Me
+- 🐙 GitHub: https://github.com/theprince2552  
+- 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-83b77132a/  
+- 📧 Email: princekumar20799@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+💡 I challenge myself every day to learn something new in AI & Tech 🚀
