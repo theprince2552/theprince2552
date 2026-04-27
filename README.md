@@ -11,14 +11,14 @@
 
 ---
 
-## 💻 About Me
+##  About Me
 🎓 Computer Science & Artificial Intelligence student at **CSJMU**  
 💡 Passionate about **Data Science, Machine Learning & AI**  
 ⚡ I love solving real-world problems with code  
 
 ---
 
-## 🔍 Focus Areas
+##  Focus Areas
 - 📊 Data Analysis & Visualization  
 - 🧠 Machine Learning & AI Projects  
 - 🧩 Algorithms & Problem Solving  
@@ -26,14 +26,14 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced Data Science Techniques  
 - Deep Learning Models  
 - Dashboard & Data Visualization  
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - 🔢 **Calculator App** – Python based calculator  
 - 🎮 **Game Project** – Fun Python game  
 - 🔐 **Password Generator** – Secure password tool  
@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theprince2552&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprince2552&theme=tokyonight" />
@@ -49,12 +49,12 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 - 🐙 GitHub: https://github.com/theprince2552  
 - 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-83b77132a/  
 - 📧 Email: princekumar20799@gmail.com  
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 💡 I challenge myself every day to learn something new in AI & Tech 🚀
