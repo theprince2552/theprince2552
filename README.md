@@ -38,7 +38,8 @@
 - 🎮 **Game Project** – Fun Python game  
 - 🔐 **Password Generator** – Secure password tool  
 - 📋 **To-Do List App** – Task manager  
-
+- ❤️ **Counselling_website** - counselling for collage
+- 😎 **Smartphone_price_prediction** - Buy best phone 
 ---
 <!-- Snake Game Repo View -->
 
