@@ -40,6 +40,11 @@
 - 📋 **To-Do List App** – Task manager  
 
 ---
+<p align="center">
+  <img src="[https://github.com/theprince2552/theprince2552/blob/main/banner%20github.png?raw=true" alt="banner](https://github.com/theprince2552/theprince2552/blob/main/gh-space-shooter.webp?raw=true)" />
+</p>
+
+
 
 ##  GitHub Stats
 <p align="center">
